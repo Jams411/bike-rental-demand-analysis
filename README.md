@@ -11,6 +11,14 @@ This project analyzes hourly bike rental demand using Python and exploratory dat
 - Jupyter Notebook
 - Excel
 
+## Skills Demonstrated
+- Exploratory Data Analysis (EDA)
+- Data Visualization
+- Feature Engineering
+- Correlation Analysis
+- Business Analytics
+- Operational Strategy Interpretation
+
 ## Key Findings
 - Commute hours account for over 43% of total rentals
 - Warm and dry conditions significantly increase demand
