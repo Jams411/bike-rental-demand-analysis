@@ -56,4 +56,4 @@ This project analyzes hourly bike rental demand using Python and exploratory dat
 
 ## Author
 Jameel Shaikh  
-Master of Finance | Python & Data Analytics
+Quantitative Finance | Risk Analytics
